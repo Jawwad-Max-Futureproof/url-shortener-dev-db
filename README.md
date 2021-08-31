@@ -6,7 +6,7 @@ A development database for [url-shortener](https://github.com/Jawwad-Max-Futurep
 
 ### Installation
 
-- Open terminal and run the following commands:
+Open terminal and run the following commands:
 
 ```sh
 git clone git@github.com:Jawwad-Max-Futureproof/url-shortener-dev-db.git url-shortener-dev-db
