@@ -1,6 +1,0 @@
-DROP TABLE IF EXISTS urls;
-
-CREATE TABLE urls (
-  shortened_url VARCHAR PRIMARY KEY,
-  url VARCHAR NOT NULL
-);
